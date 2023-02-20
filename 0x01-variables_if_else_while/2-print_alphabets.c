@@ -3,20 +3,18 @@
 #include <time.h>
 
 /**
- * main - A program that prints the alphabet in diifferent cases
+ * main - a program that prints the alphabet in lowercase
  *
  * Retun: Always 0 (Success)
  */
 
 int main(void)
 {
-	char low;
+char x;
 
-	for  (low = 'a'; low <= 'z'; low++)
-	putchar(low);
-	for (low = 'A'; low <= 'Z'; low++)
-	putchar(low);
-	putchar('\n');
+for (x = 'a'; x <= 'z'; x++)
+putchar(x);
+putchar('\n');
 
-	return (0);
+return (0);
 }
