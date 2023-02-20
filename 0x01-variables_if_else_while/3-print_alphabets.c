@@ -5,7 +5,7 @@
 /**
  * main - A program that prints the alphabet in diifferent cases
  *
- * Retun: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)

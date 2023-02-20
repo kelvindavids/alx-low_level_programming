@@ -5,7 +5,7 @@
 /**
  * main - a program that prints the alphabet in lowercase
  *
- * Retun: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
