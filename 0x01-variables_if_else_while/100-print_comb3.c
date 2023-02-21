@@ -19,7 +19,7 @@ if(y != x)
 putchar(x);
 putchar(y);
 
-if (x == '8' && y =='9')
+if (x == '8' && y == '9')
 continue;
 putchar(',');
 putchar(' ');
