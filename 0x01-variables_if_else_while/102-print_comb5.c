@@ -10,7 +10,7 @@
 int main(void)
 {
 int y, z;
-for (y = 0; z <= 98; y++)
+for (y = 0; y <= 98; y++)
 {
 for (z = y + 1; z <= 99; z++)
 {
